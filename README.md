@@ -22,14 +22,20 @@
 
 ### 1. Page Object Model Testing Framework
    - **Tech**: Cypress, JavaScript
-   - **Details**: Automated tests for an address book application; focused on logic error identification and bug documentation.
+   - **Description**: Developed a Page Object Model (POM) framework to automate tests for an address book application. Focused on identifying and resolving logic errors within the code and documented detailed steps for bug reproduction.
+   - **Key Features**:
+     - Automated tests for adding, editing, and deleting contacts.
+     - Structured and reusable components to streamline test maintenance.
+     - Comprehensive bug reports with clear reproduction steps.
+   - **Link**: [https://github.com/Rohit9977123/TutorialsNinja-AddressBook_SpaceX-Dream-Develders_086](#)
 
 ### 2. Currency Conversion Testing
-   - **Details**: Manual test cases for currency functionality; collaborated with developers to resolve issues.
-
-### 3. GitHub API Automation
-   - **Tech**: Java, Selenium
-   - **Details**: Automated GitHub repository API requests for tasks like creating, updating, and deleting repositories.
+   - **Description**: Designed and executed manual test cases for currency conversion functionality, identifying critical issues and collaborating with developers for timely resolution.
+   - **Key Features**:
+     - Extensive test scenarios for conversion rates, accuracy, and rounding.
+     - Documented detailed reproduction steps for identified bugs.
+     - Enhanced problem-solving skills through issue investigation and reporting.
+   - **Link**: [https://github.com/Rohit9977123/TutorialsNinja_Currencies](#)
 
 
 <h3 align="left">Connect with me:</h3>
