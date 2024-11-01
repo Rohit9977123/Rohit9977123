@@ -18,6 +18,20 @@
 - **Frameworks**: Page Object Model, REST API testing
 - **Other Skills**: SQL, Node.js, API and mobile testing, problem-solving, teamwork, and documentation
 
+## Projects
+
+### 1. Page Object Model Testing Framework
+   - **Tech**: Cypress, JavaScript
+   - **Details**: Automated tests for an address book application; focused on logic error identification and bug documentation.
+
+### 2. Currency Conversion Testing
+   - **Details**: Manual test cases for currency functionality; collaborated with developers to resolve issues.
+
+### 3. GitHub API Automation
+   - **Tech**: Java, Selenium
+   - **Details**: Automated GitHub repository API requests for tasks like creating, updating, and deleting repositories.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-chouhan-74669a16a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-chouhan-74669a16a/" height="30" width="40" /></a>
