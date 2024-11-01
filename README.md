@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Selenium**
 
-- 💬 Ask me about **Software Tester**
+- 💬 Ask me about **Software Testing**
 
 - 📫 How to reach me **rohitchouhankgn11@gmail.com**
 
