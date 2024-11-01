@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Chouhan</h1>
-<h3 align="center">Software Testing</h3>
+<h3 align="center">Aspiring Software Development Engineer in Test (SDET) with a focus on creating robust, scalable, and maintainable test automation frameworks. Passionate about improving software quality through efficient automated testing and integrating test suites in CI/CD pipelines.</h3>
 <img align="right"  alt="testing" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQSQdNnEzrK6Re-ITBMV7v849R7XbFbw3xD85dnH_dY2py9avY8cqFxXA&s">
 
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQSQdNnEzrK6Re-ITBMV7v849R7XbFbw3xD85dnH_dY2py9avY8cqFxXA&s
