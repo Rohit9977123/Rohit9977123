@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Software Tester**
 
-- 📫 How to reach me **rohitchouhan**
+- 📫 How to reach me **rohitchouhankgn11@gmail.com**
 
 - 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=672201d66f511f3183edb42a](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=672201d66f511f3183edb42a)
 
@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-chouhan-74669a16a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-chouhan-74669a16a/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/rohit.chouhan.39589149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rohit.chouhan.39589149" height="30" width="40" /></a>
-  <a href="rohitchouhankgn11@gmail.com" /></a>
+  
 <a href="https://instagram.com/https://www.instagram.com/c_h_o_u_h_a_n_r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/c_h_o_u_h_a_n_r/" height="30" width="40" /></a>
 </p>
 
