@@ -11,6 +11,12 @@
 - 📫 How to reach me **rohitchouhankgn11@gmail.com**
 
 - 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=672201d66f511f3183edb42a](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=672201d66f511f3183edb42a)
+## Skills
+
+- **Languages**: Java, JavaScript, Python
+- **Testing Tools**: Selenium, Cypress, Jira
+- **Frameworks**: Page Object Model, REST API testing
+- **Other Skills**: SQL, Node.js, API and mobile testing, problem-solving, teamwork, and documentation
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
