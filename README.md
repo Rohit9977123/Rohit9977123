@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rohitchouhankgn11@gmail.com**
 
-- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=672201d66f511f3183edb42a](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=672201d66f511f3183edb42a)
+- 📄 Know about my experiences: (https://drive.google.com/file/d/1TAfCyNlbdNw65HgMQIi4av4EXEJl4bAA/view?usp=sharing)
 ## Skills
 
 - **Languages**: Java, JavaScript, Python
