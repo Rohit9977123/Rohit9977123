@@ -5,7 +5,6 @@
 
 
 
-- 🌱 I’m currently learning **Selenium**
 
 - 💬 Ask me about **Software Testing**
 
