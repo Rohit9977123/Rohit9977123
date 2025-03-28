@@ -37,15 +37,14 @@
      - Enhanced problem-solving skills through issue investigation and reporting.
    - **Link**:(https://github.com/Rohit9977123/TutorialsNinja_Currencies)
 
- ###3. Naaptol Selenium Project | Automation Testing
-
-Tech: Selenium, POM, Spring Tool Suit(STC)
--**Description**: Developed automated test cases for the Kids and Toys section of Naaptol using Selenium and POM.
--**Key Features**:
--Validated core functionalities such as login, category navigation, cart operations, and logout to ensure usability and responsiveness.
--Implemented the Page Object Model (POM) for efficient test management.
--Utilized Maven for dependency management and test execution.
--**Link**: (https://github.com/Rohit9977123/Naaptool_POM)
+### 3. Naaptol Selenium Project | Automation Testing
+- **Tech**: Selenium, POM, Spring Tool Suite (STS)
+- **Description**: Developed automated test cases for the Kids and Toys section of Naaptol using Selenium and POM.
+- **Key Features**:
+  - Validated core functionalities such as login, category navigation, cart operations, and logout to ensure usability and responsiveness.
+  - Implemented the Page Object Model (POM) for efficient test management.
+  - Utilized Maven for dependency management and test execution.
+- **Link**: (https://github.com/Rohit9977123/Naaptool_POM)
 
 
 
