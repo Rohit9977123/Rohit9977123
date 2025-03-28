@@ -1,3 +1,4 @@
+***
 <h1 align="center">Hi 👋, I'm Rohit Chouhan</h1>
 <h3 align="center">Aspiring Software Development Engineer in Test (SDET) with a focus on creating robust, scalable, and maintainable test automation frameworks. Passionate about improving software quality through efficient automated testing and integrating test suites in CI/CD pipelines.</h3>
 <img align="right"  alt="testing" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQSQdNnEzrK6Re-ITBMV7v849R7XbFbw3xD85dnH_dY2py9avY8cqFxXA&s">
@@ -35,7 +36,7 @@
      - Extensive test scenarios for conversion rates, accuracy, and rounding.
      - Documented detailed reproduction steps for identified bugs.
      - Enhanced problem-solving skills through issue investigation and reporting.
-   - **Link**: [https://github.com/Rohit9977123/TutorialsNinja_Currencies](#)
+   - **Link**:(https://github.com/Rohit9977123/TutorialsNinja_Currencies)
 
 
 <h3 align="left">Connect with me:</h3>
