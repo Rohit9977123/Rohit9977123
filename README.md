@@ -35,7 +35,7 @@ Passionate about enhancing software quality through efficient automated testing 
 
 ## 📄 Resume
 
-You can view my resume [here](https://drive.google.com/file/d/1TAfCyNlbdNw65HgMQIi4av4EXEJl4bAA/view?usp=sharing).
+You can view my resume [here](https://drive.google.com/file/d/1d5dE4IqAQgHeC8g7CS1rvQVD6tufGH3-/view?usp=sharing).
 
 ---
 
