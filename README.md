@@ -37,13 +37,39 @@
      - Enhanced problem-solving skills through issue investigation and reporting.
    - **Link**:(https://github.com/Rohit9977123/TutorialsNinja_Currencies)
 
-### 3. Naaptol Selenium Project | Automation Testing
+### 3. Write Wave | Manual Testing | Automation Testing
 **Tech**: Selenium, POM, STS, Maven
 **Performed** manual and automated testing for the WriteWave platform to ensure functionality and usability.
 **Validated** key features like login, document editing, real-time collaboration, and logout.
 **Developed** test scripts using Selenium with POM for maintainability.
    Used Maven for dependency management and test execution
 - **Link**: (https://github.com/Rohit9977123/RSystem.git)
+### 4.🛒 Naaptol | Selenium Automation Testing Project
+
+**Tech Stack**: Selenium | Page Object Model (POM) | Cucumber | Maven | Eclipse  
+**Timeline**: December 2024  
+
+## 📌 Project Overview
+This project involves automated testing of the *Kids and Toys* section on the Naaptol e-commerce platform. The objective was to validate core functionalities and ensure a smooth user experience through robust test automation.
+
+## 🔧 Responsibilities & Features
+- Developed end-to-end automated test cases using **Selenium WebDriver** and **Page Object Model (POM)**.
+- Validated key functionalities:
+  - User Login
+  - Category Navigation
+  - Cart Operations
+  - Logout Process
+- Implemented **POM design pattern** for scalable and maintainable test code.
+- Utilized **Maven** for efficient build management and dependency handling.
+- Followed **Cucumber BDD** approach for better readability and collaboration.
+
+## 🚀 Tools & Technologies
+- Selenium WebDriver  
+- Page Object Model (POM)  
+- Cucumber (BDD)  
+- Eclipse IDE  
+- Maven  
+- TestNG (optional, if used)
 
 
 
