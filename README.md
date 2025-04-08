@@ -76,6 +76,31 @@ This project involves automated testing of the *Kids and Toys* section on the Na
 
 > 📁 This repository demonstrates the application of automation best practices in real-world e-commerce scenarios.  
 > 🔗 **Project Link**: [https://github.com/Rohit9977123/Naaptool_POM.git](https://github.com/Rohit9977123/Naaptool_POM.git)
+# 🧪 TutorialsNinja-AddressBook | Cypress Automation Project
+
+A Cypress-based automation testing project for the AddressBook module of the TutorialsNinja Demo Web Shop. This project focuses on end-to-end testing using best practices such as the Page Object Model (POM) to ensure test scalability and maintainability.
+
+## 🔧 Technologies Used
+- **Automation Tool**: Cypress  
+- **Design Pattern**: Page Object Model (POM)  
+- **IDE**: Visual Studio Code  
+- **Test Type**: End-to-End Testing  
+- **Date**: October 2024  
+
+## ✅ Key Features
+- Designed and executed comprehensive test scenarios for the AddressBook module.  
+- Performed end-to-end testing of core features such as:
+  - **User Authentication**
+  - **Address Management**
+  - **Search Functionality**
+  - **Cart & Wishlist Operations**
+  - **Checkout Workflows**
+- Implemented and maintained POM structure for reusable and organized test scripts.
+
+## 📁 Repository
+🔗 [GitHub Repository](https://github.com/Rohit9977123/TutorialsNinja-AddressBook_SpaceX-Dream-Develders_086.git)
+
+
 
 
 
