@@ -28,14 +28,19 @@
      - Structured and reusable components to streamline test maintenance.
      - Comprehensive bug reports with clear reproduction steps.
    - **Link**:(https://github.com/Rohit9977123/TutorialsNinja-AddressBook_SpaceX-Dream-Develders_086)
+## 📁  Currency Conversion Testing
 
-### 2. Currency Conversion Testing
-   - **Description**: Designed and executed manual test cases for currency conversion functionality, identifying critical issues and collaborating with developers for timely resolution.
-   - **Key Features**:
-     - Extensive test scenarios for conversion rates, accuracy, and rounding.
-     - Documented detailed reproduction steps for identified bugs.
-     - Enhanced problem-solving skills through issue investigation and reporting.
-   - **Link**:(https://github.com/Rohit9977123/TutorialsNinja_Currencies)
+### 📝 Description
+Performed manual testing for the **Currency Conversion** feature of an e-commerce platform, focusing on validating accuracy and consistency of currency calculations.
+
+### ✅ Key Contributions
+- Designed extensive test scenarios to verify conversion logic, rounding behavior, and precision of exchange rates.
+- Logged detailed reproduction steps for identified issues and collaborated with developers for quick resolution.
+- Strengthened problem-solving skills through root cause analysis and structured reporting.
+
+### 🔗 Repository Link
+[GitHub – Currency Conversion Testing](https://github.com/Rohit9977123/TutorialsNinja_Currencies)
+
 
 # 📄 Write-Wave | Manual Testing Project
 
