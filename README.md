@@ -37,13 +37,31 @@
      - Enhanced problem-solving skills through issue investigation and reporting.
    - **Link**:(https://github.com/Rohit9977123/TutorialsNinja_Currencies)
 
-### 3. Write Wave | Manual Testing | Automation Testing
-**Tech**: Selenium, POM, STS, Maven
-**Performed** manual and automated testing for the WriteWave platform to ensure functionality and usability.
-**Validated** key features like login, document editing, real-time collaboration, and logout.
-**Developed** test scripts using Selenium with POM for maintainability.
-   Used Maven for dependency management and test execution
-- **Link**: (https://github.com/Rohit9977123/RSystem.git)
+# 📄 Write-Wave | Manual Testing Project
+
+## 📅 Project Duration
+**September 2024**
+
+## 🧪 Project Overview
+This repository showcases the manual testing efforts carried out for the **Write-Wave** collaborative writing platform. The objective was to ensure the reliability, usability, and functional accuracy of the application by identifying and reporting defects during testing phases.
+
+## 🔍 Key Contributions
+
+- Designed and executed comprehensive test scenarios to detect algorithmic and logical issues within the Write-Wave application.
+- Documented bugs with clear reproduction steps and supporting details to aid in faster issue resolution.
+- Developed detailed test plans and structured test cases to verify functionality across major modules including:
+  - User Login/Logout  
+  - Document Creation & Editing  
+  - Real-Time Collaboration  
+  - Formatting Tools  
+
+## 🧾 Repository Link
+[🔗 Write-Wave Manual Testing Project on GitHub](https://github.com/Rohit9977123/RSystem.git)
+
+---
+
+Feel free to explore the repository for detailed test case documents and issue tracking logs.
+
 # 🛒 Naaptol | Selenium Automation Testing Project
 
 **Tech Stack**: Selenium | Page Object Model (POM) | Cucumber | Maven | Eclipse  
