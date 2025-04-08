@@ -45,6 +45,16 @@
   - Implemented the Page Object Model (POM) for efficient test management.
   - Utilized Maven for dependency management and test execution.
 - **Link**: (https://github.com/Rohit9977123/Naaptool_POM)
+### 4. Write wave Project | Automation Testing
+✅ WriteWave Application Testing
+Tech: Selenium, Page Object Model (POM), Spring Tool Suite (STS), Maven
+Description: Performed both manual and automated testing for the WriteWave collaborative writing platform to ensure the application’s reliability, functionality, and usability across key modules.
+Key Features:
+Conducted manual testing to validate user flows such as login, document creation, editing, formatting, real-time collaboration, and logout.
+Developed automated test scripts using Selenium and implemented the Page Object Model (POM) for scalable and maintainable test architecture.
+Utilized Maven for efficient dependency management and test execution.
+Reported bugs and collaborated with the development team to verify fixes and perform regression testing.
+- **Link**: (https://github.com/Rohit9977123/RSystem.git)
 
 
 
