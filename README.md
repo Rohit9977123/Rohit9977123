@@ -12,16 +12,37 @@ Passionate about enhancing software quality through efficient automated testing 
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQSQdNnEzrK6Re-ITBMV7v849R7XbFbw3xD85dnH_dY2py9avY8cqFxXA&s" alt="Testing illustration" width="400"/>
 </p>
+---
 
+## 💬 Ask Me About
 
+- Manual Testing
+- Automation Testing (Selenium, TestNG, etc.)
+- API Testing (Postman, REST Assured)
+- Test Case Design & Execution
+- Bug Tracking & Reporting (JIRA, Bugzilla)
+- CI/CD Integration
+- STLC & SDLC Processes
+- Java (OOPs concepts related to QA)
 
+---
 
+## 📫 Contact Me
 
-- 💬 Ask me about **Software Testing**
+📧 Email: [rohitchouhankgn11@gmail.com](mailto:rohitchouhankgn11@gmail.com)
 
-- 📫 How to reach me **rohitchouhankgn11@gmail.com**
+---
 
-- 📄 Know about my experiences: (https://drive.google.com/file/d/1TAfCyNlbdNw65HgMQIi4av4EXEJl4bAA/view?usp=sharing)
+## 📄 Resume
+
+You can view my resume [here](https://drive.google.com/file/d/1TAfCyNlbdNw65HgMQIi4av4EXEJl4bAA/view?usp=sharing).
+
+---
+
+## 📌 Let's Connect
+
+I'm always open to discussing software quality, testing strategies, and collaboration opportunities. Feel free to reach out!
+
 ## 💻 Skills
 
 ### 🖥️ Programming Languages
