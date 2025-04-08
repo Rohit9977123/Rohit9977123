@@ -19,15 +19,6 @@
 - **Other Skills**: SQL, Node.js, API and mobile testing, problem-solving, teamwork, and documentation
 
 ## Projects
-
-### 1. Page Object Model Testing Framework
-   - **Tech**: Cypress, JavaScript
-   - **Description**: Developed a Page Object Model (POM) framework to automate tests for an address book application. Focused on identifying and resolving logic errors within the code and documented detailed steps for bug reproduction.
-   - **Key Features**:
-     - Automated tests for adding, editing, and deleting contacts.
-     - Structured and reusable components to streamline test maintenance.
-     - Comprehensive bug reports with clear reproduction steps.
-   - **Link**:(https://github.com/Rohit9977123/TutorialsNinja-AddressBook_SpaceX-Dream-Develders_086)
 ## 📁  Currency Conversion Testing
 
 ### 📝 Description
