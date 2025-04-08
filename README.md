@@ -11,12 +11,30 @@
 - 📫 How to reach me **rohitchouhankgn11@gmail.com**
 
 - 📄 Know about my experiences: (https://drive.google.com/file/d/1TAfCyNlbdNw65HgMQIi4av4EXEJl4bAA/view?usp=sharing)
-## Skills
+## 💻 Skills
 
-- **Languages**: Java, JavaScript, Python
-- **Testing Tools**: Selenium, Cypress, Jira
-- **Frameworks**: Page Object Model, REST API testing
-- **Other Skills**: SQL, Node.js, API and mobile testing, problem-solving, teamwork, and documentation
+### 🖥️ Programming Languages
+- Java
+- JavaScript
+- Python
+
+### 🧪 Testing Tools
+- Selenium WebDriver
+- Cypress
+- JIRA
+
+### 🧱 Frameworks & Methodologies
+- Page Object Model (POM)
+- RESTful API Testing
+
+### 🛠️ Additional Skills
+- SQL
+- Node.js
+- API Testing
+- Mobile Application Testing
+- Problem-Solving
+- Team Collaboration
+- Technical Documentation
 
 ## Projects
 ## 📁  Currency Conversion Testing
