@@ -44,10 +44,11 @@
 **Developed** test scripts using Selenium with POM for maintainability.
    Used Maven for dependency management and test execution
 - **Link**: (https://github.com/Rohit9977123/RSystem.git)
-### 4.🛒 Naaptol | Selenium Automation Testing Project
+# 🛒 Naaptol | Selenium Automation Testing Project
 
 **Tech Stack**: Selenium | Page Object Model (POM) | Cucumber | Maven | Eclipse  
 **Timeline**: December 2024  
+**Repository**: [GitHub - Naaptol POM Automation](https://github.com/Rohit9977123/Naaptool_POM.git)
 
 ## 📌 Project Overview
 This project involves automated testing of the *Kids and Toys* section on the Naaptol e-commerce platform. The objective was to validate core functionalities and ensure a smooth user experience through robust test automation.
@@ -69,7 +70,13 @@ This project involves automated testing of the *Kids and Toys* section on the Na
 - Cucumber (BDD)  
 - Eclipse IDE  
 - Maven  
-- TestNG (optional, if used)
+- TestNG *(if applicable)*
+
+---
+
+> 📁 This repository demonstrates the application of automation best practices in real-world e-commerce scenarios.  
+> 🔗 **Project Link**: [https://github.com/Rohit9977123/Naaptool_POM.git](https://github.com/Rohit9977123/Naaptool_POM.git)
+
 
 
 
